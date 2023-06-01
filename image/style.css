@@ -44,25 +44,6 @@ body { /* 전체적인 폰트 사이즈 */
     height: 100%;
     object-fit: cover;
 }
-/*
-#profile_pic{
-    width: 50px;
-    height: 50px;
-}
-
-.highlight_pic{
-    width: 35px;
-    height: 35px;
-
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#highlight_area{
-    display: grid;
-    grid-template-columns: 45px 45px 1fr;
-}
-*/
 
 #profile_pic{
     width: 15vw;
@@ -107,8 +88,8 @@ button{
     width: 95%;
 
     font-size: 3vw;
-    background-color: white;
-    border: solid gray 1px;
+    background-color: gray;
+    border: solid white 1px;
     border-radius: 3px;
 }
 
