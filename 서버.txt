@@ -1,0 +1,9 @@
+virtual.izerone.co.kr:22102
+
+
+
+create user tialls@106.101.131.146 identified by '123456';
+grant all on tialls.* to tialls@106.101.131.146;
+flush privileges;
+
+ 'tialls'@'106.101.131.146' 106.101.131.146
